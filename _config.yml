@@ -2,26 +2,26 @@
 
 title: Cordula Reisch
 locale: de_DE
-logo: logo.jpg
+logo: 
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Cordula Reisch
-  avatar: Bild_Uol.jpg
-  bio: "Carl-von-Ossietzky Universität Oldenburg"
-  email: fabian.schuhmann@uol.de
+  avatar: Bild.jpg
+  bio: "Technische Universität Braunschweig"
+  email: c.reisch@tu-bs.de
   # Do not include the @ symbol in your Twitter username
-  twitter: fabianschuhmann
-  linkedin: fabian-schuhmann-10135a193
-  github: fabianschuhmann
-  orcid: 0000-0002-3768-6494 
-  researchgate: #username
+  twitter: #username
+  linkedin: #username
+  github: creisch
+  orcid: 0000-0003-1442-1474
+  researchgate: Cordula-Reisch
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: reisch.cordula@gmail.com
   facebook: #username
   instagram: #username
   bing-verify:
