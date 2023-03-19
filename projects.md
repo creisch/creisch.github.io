@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Projects/Code
+title: Projects
 ---
 
-[SiMBols](https://gitlab.uni-oldenburg.de/quantbiolab/simbols)
-SiMBols is a python package designed to make similarity measures easily accessible for biological systems and to compare spatio-temporal data. The package offers a unified approach to calculate the Frechet distance, the weak Frechet distance, the Hausdorff distance, dynamic time warping, Wasserstein distance, Kullback-Leibler divergence, longest common subsequence and an approach based on difference distance matrices.
+inter-fire: Interdisciplinary research in ecological, numerical, and mathematical analysis of wildfire hazards
+(joint work with Prof. Dr. Ilhan Özgen and Prof. Dr. Boris Schröder-Esselbach, Institute of Geoecology, TU Braunschweig)
+
+Adaptive mesh criteria for highly nonlinear partially saturated concrete 
+(joint work with Dr. Knut Andreas Meyer, Institute of Applied Mechanics, TU Braunschweig)
