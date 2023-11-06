@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modeling still matters: a surprising instance of catastrophic floating point errors in mathematical biology and numerical methods for ODEs"
+title: "Preprint: Modeling still matters: a surprising instance of catastrophic floating point errors in mathematical biology and numerical methods for ODEs"
 excerpt: "Cordula Reisch, Hendrik Ranocha, Preprint on arXiv, 2304.02365 (2023)"
 tags: [publication]
 comments: false
