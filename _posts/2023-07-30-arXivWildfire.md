@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analytical and numerical insights into wildfire dynamics: Exploring the advection-diffusion-reaction model
+title: "Analytical and numerical insights into wildfire dynamics: Exploring the advection-diffusion-reaction model"
 excerpt: "Cordula Reisch, Adrián Navas-Montilla, Ilhan Özgen-Xian, Preprint on arXiv 	arXiv:2307.16174 (2023)"
 tags: [publication]
 comments: false
