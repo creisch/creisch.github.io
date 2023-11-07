@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dissertation: Reaktions-Diffusions-Gleichungen und Modellfamilien zur Analyse von Entzündungsprozessen
+title: "Dissertation: Reaktions-Diffusions-Gleichungen und Modellfamilien zur Analyse von Entzündungsprozessen"
 excerpt: "Cordula Reisch, Dissertation, TU Braunschweig, Cuvillier (2020)"
 tags: [publication]
 comments: false
