@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "owards adaptive mesh criteria for highly nonlinear partially saturated concrete" 
+excerpt: "Towards adaptive mesh criteria for highly nonlinear partially saturated concrete" 
 title: "Oral presentation at the Workshop Numerical aspects of porous media, TU Braunschweig"
 tags: [presentation]
 category: presentation
