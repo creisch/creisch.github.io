@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preprint: 2023-12-10-ArXivModelfamily.md"
+title: "Preprint: Studying wildfire fronts using advection-diffusion-reaction models"
 excerpt: "Koondanibha Mitra, Qiyao Peng, Cordula Reisch, Preprint on arXiv, 			arXiv:2401.17468 (2024)"
 tags: [publication]
 comments: false
