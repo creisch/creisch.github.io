@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "ASMPT: Data-driven Parameters Tuning for Predictive Performance Improvement ofWirebonder Multi-body Model" 
-title: "Oral presentation of the group results, Study group with industry, Groningen, the Netherlands"
+title: "Presentation of the group results, Study group with industry, Groningen, the Netherlands"
 tags: [presentation]
 category: presentation
 ---

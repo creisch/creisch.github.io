@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "Modeling liver infections with reaction diffusion equations" 
-title: "Oral presentation in Analysis seminar, JG University Mainz"
+title: "Talk in Analysis seminar, JG University Mainz"
 tags: [presentation]
 category: presentation
 ---

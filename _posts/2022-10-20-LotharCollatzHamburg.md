@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "Analytical results for reaction-diffusion equations and their impact on modeling inflammation" 
-title: "Oral presentation at the Lothar-Collatz Colloquium, University of Hamburg"
+title: "Talk in the Lothar-Collatz Colloquium, University of Hamburg"
 tags: [presentation]
 category: presentation
 ---

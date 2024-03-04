@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "Modeling liver infections with reaction-diffusion equations" 
-title: "Oral presentation in the mini-symposium 'Multi-Scale pheonmena in biology: modelling and analysis' at the European Conference of Mathematical and Theoretical Biology (ECMTB), Heidelberg"
+title: "Talk in the mini-symposium 'Multi-Scale pheonmena in biology: modelling and analysis' at the European Conference of Mathematical and Theoretical Biology (ECMTB), Heidelberg"
 tags: [presentation]
 category: presentation
 ---

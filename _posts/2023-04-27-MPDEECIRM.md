@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "A hierarchical model family for control strategies of mosquito spread" 
-title: "Oral presentation at the MPDEE conference at CIRM, Luminy, France"
+title: "Talk at the MPDEE conference at CIRM, Luminy, France"
 tags: [presentation]
 category: presentation
 ---

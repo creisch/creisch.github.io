@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "Nonlocality induced instabilities in reaction diffusion systems" 
-title: "Oral presentation in the Applied Analysis Seminar, 19.12.2023, University of Graz, Austria"
+title: "Talk in the Applied Analysis Seminar, 19.12.2023, University of Graz, Austria"
 tags: [presentation]
 category: presentation
 ---

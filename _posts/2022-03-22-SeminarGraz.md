@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "Families of reaction diffusion equations for modeling hepatitis" 
-title: "Oral presentation in the Applied Analysis Seminar, University of Graz, Austria (online)"
+title: "Talk in the Applied Analysis Seminar, University of Graz, Austria (online)"
 tags: [presentation]
 category: presentation
 ---

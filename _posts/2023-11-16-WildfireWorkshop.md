@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "Exploring an advection-diffusion-reaction wildfire model analytically and with simulations" 
-title: "Oral presentation at the Workshop Interdisciplinary Research in Ecological and Mathematical Analysis of Wildfire Hazards, 16.11.2023, Braunschweig (and online) "
+title: "Talk at the Workshop Interdisciplinary Research in Ecological and Mathematical Analysis of Wildfire Hazards, 16.11.2023, Braunschweig (and online) "
 tags: [presentation]
 category: presentation
 ---

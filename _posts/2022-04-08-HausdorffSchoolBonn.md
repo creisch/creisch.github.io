@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "Reaction-diffusion equations for modeling liver infections" 
-title: "Oral presentation during the Hausdorff School Diffusive Systems, University of Bonn"
+title: "Talk during the Hausdorff School Diffusive Systems, University of Bonn"
 tags: [presentation]
 category: presentation
 ---

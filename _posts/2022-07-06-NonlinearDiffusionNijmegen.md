@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "Influence of chemotactic effects on chronic inflammations" 
-title: "Oral presentation in workshop Nonlinear diffusion equations and Applications in Biology, University of Nijmegen, the Netherlands"
+title: "Talk during workshop Nonlinear diffusion equations and Applications in Biology, University of Nijmegen, the Netherlands"
 tags: [presentation]
 category: presentation
 ---
