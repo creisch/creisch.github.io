@@ -3,7 +3,7 @@ layout: page
 excerpt: "Home"
 ---
 
-I am a postdoctoral researcher at TU Braunschweig, interested in mathematical modeling and differential equations. 
+I am a postdoctoral researcher at TU Braunschweig, interested in mathematical modeling and differential equations. <br>
 Currently, I hold a COLIBRI research professorship at the University of Graz. 
 
 
