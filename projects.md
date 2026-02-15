@@ -3,6 +3,8 @@ layout: page
 title: Projects
 ---
 
+Model selection in biomedicine using reaction diffusion equations [Novo Nordisk Start Package Grant Project, since 01/2026]
+
 Nonlocality-driven instabilities in nonlinear reaction-diffusion systems [DAAD fellowship for a 4-months research stay with Bao Q. Tang and Cinzia Soresina at Uni Graz]
 
 FIREDYN: Simulation and dynamical analysis of wildfire propagation using high resolution computational tools [joint project with Adrián Navas Montilla, Pablo Diaz Benito and Ilhan Özgen; funded by the Ministerio de Ciencia e Innovación, Spain, under project-nr. PID2022-141051NA-I00]
